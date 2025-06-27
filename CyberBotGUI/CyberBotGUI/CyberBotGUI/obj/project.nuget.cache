@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RpLXA1lW6lo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zandr\\Downloads\\CyberBotGUI\\CyberBotGUI\\CyberBotGUI\\CyberBotGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zandr\\.nuget\\packages\\system.speech\\9.0.6\\system.speech.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
